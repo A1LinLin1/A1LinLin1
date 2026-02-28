@@ -6,18 +6,10 @@
 
 ### 🛠️ 核心技术栈 (Tech Stack)
 <p align="left">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/CyberSecurity-Black?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Security" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,qt,py,pytorch,linux,docker,git&theme=dark" />
+  </a>
 </p>
-
-### 🔭 目前的探索与进展 (Current Status)
-- 💻 **正在研发**：基于 C++ 和 Qt 6 的系统监控工具，以及针对高隐蔽性 SQL 注入攻击的检测模型（CNN/Transformer）。
-- 🔐 **持续精进**：漏洞分析、渗透测试，并活跃于各类 CTF 比赛的解题与命题中。
-- 🔗 **技术拓展**：长安链 (ChainMaker) 等区块链技术的开发与环境部署。
-- 📝 **记录生活**：搭建并维护基于 WordPress/NAS 的个人博客系统。
 
 
 ### 📊 GitHub 开源统计 (GitHub Stats)
