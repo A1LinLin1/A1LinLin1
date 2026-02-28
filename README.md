@@ -16,7 +16,8 @@
 
 ### 📊 GitHub 开源统计 (GitHub Stats)
 <p align="center">
-  <img src="https://metrics.lecoq.io/A1LinLin1" alt="A1LinLin1's Metrics" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=A1LinLin1&show_icons=true&theme=radical&hide_border=true&v=20260301" alt="A1LinLin1's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1LinLin1&layout=compact&theme=radical&hide_border=true&v=20260301" alt="Top Langs" width="48%" />
 </p>
 
 ### 📈 GitHub 活跃度曲线 (Activity Graph)
@@ -24,12 +25,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=A1LinLin1&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="A1LinLin1's Activity Graph" width="100%" />
 </p>
 
-### 🏆 个人成就奖杯 (GitHub Trophies)
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=A1LinLin1&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="A1LinLin1's Trophies" />
-  </a>
-</p>
 
 ### ⚡ 动态访客统计 (Profile Views)
 <p align="left">
