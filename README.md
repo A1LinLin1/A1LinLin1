@@ -16,8 +16,7 @@
 
 ### 📊 GitHub 开源统计 (GitHub Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A1LinLin1&show_icons=true&theme=radical&hide_border=true&v=20260301" alt="A1LinLin1's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1LinLin1&layout=compact&theme=radical&hide_border=true&v=20260301" alt="Top Langs" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A1LinLin1&theme=radical" alt="A1LinLin1's Stats" />
 </p>
 
 ### 📈 GitHub 活跃度曲线 (Activity Graph)
