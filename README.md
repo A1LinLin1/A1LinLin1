@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Network+Security+Enthusiast;AI+%26+Deep+Learning+Developer;CTF+Player" alt="Typing SVG" />
 </a>
 
-# Hi there, I'm A1LinLin1 👋
-
 专注于**网络安全**、**人工智能**与**区块链**技术的开发者。热爱解决复杂的安全挑战，并热衷于探索 AI 在安全防护中的应用。
 
 ### 🛠️ 核心技术栈 (Tech Stack)
@@ -21,10 +19,22 @@
 - 🔗 **技术拓展**：长安链 (ChainMaker) 等区块链技术的开发与环境部署。
 - 📝 **记录生活**：搭建并维护基于 WordPress/NAS 的个人博客系统。
 
+
 ### 📊 GitHub 开源统计 (GitHub Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A1LinLin1&show_icons=true&theme=radical&hide_border=true" alt="A1LinLin1's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1LinLin1&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://metrics.lecoq.io/A1LinLin1" alt="A1LinLin1's Metrics" width="100%" />
+</p>
+
+### 📈 GitHub 活跃度曲线 (Activity Graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A1LinLin1&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="A1LinLin1's Activity Graph" width="100%" />
+</p>
+
+### 🏆 个人成就奖杯 (GitHub Trophies)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=A1LinLin1&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="A1LinLin1's Trophies" />
+  </a>
 </p>
 
 ### ⚡ 动态访客统计 (Profile Views)
