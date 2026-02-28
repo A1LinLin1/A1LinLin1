@@ -13,6 +13,22 @@
   <img src="https://img.shields.io/badge/CyberSecurity-000000?style=flat-square&logo=tryhackme&logoColor=white" alt="Security" />
 </p>
 
+### 🔭 最近在忙什么 (Current Focus)
+- 💻 **持续迭代**：基于 C++ 和 Qt 6 的系统监控工具 (Monitor Recorder)。
+- 🛡️ **安全研究**：进行高隐蔽性 SQL 注入攻击的变种分析，并训练相关的检测模型 (CNN/Transformer)。
+- ⛓️ **底层探索**：配置与开发长安链 (ChainMaker) 等区块链技术环境。
+- 🚩 **CTF 日常**：活跃于各类网络安全挑战赛，提升实战渗透与漏洞挖掘能力。
+- 📝 **记录折腾**：维护部署在个人 NAS 上的 WordPress 独立博客。
+
+### 📫 如何联系我 (Let's Connect)
+<p align="left">
+  <a href="mailto:ch1001@bupt.edu.cn">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Blog-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  </a>
+</p>
 
 ### 📊 GitHub 开源统计 (GitHub Stats)
 <p align="center">
