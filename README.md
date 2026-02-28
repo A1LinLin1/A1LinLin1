@@ -25,9 +25,6 @@
   <a href="mailto:ch1001@bupt.edu.cn">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Blog-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-  </a>
 </p>
 
 ### 📊 GitHub 开源统计 (GitHub Stats)
